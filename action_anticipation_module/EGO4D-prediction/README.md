@@ -1,5 +1,3 @@
-This repository is a direct adaptation from the Ego4D git page. Please consider referring their datatset.
-
 ## How to run code 
 
 1. Install conda environment based on environment.yml
