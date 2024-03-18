@@ -5,3 +5,6 @@ To generate the recognized actions, please follow below instructions
    - You should also download Ego4D video clips and annotations following official Ego4D github for long-term action anticipation https://github.com/EGO4D/forecasting/blob/main/LONG_TERM_ANTICIPATION.md and change the corresponding directory in this codebase.
    - Save train data features
    ```python run/test_lta.py --gpu 1 --config configs/eval/lta.json --save_feats /your/save/directory/ --split train```
+
+2. Train our action recognition at [forecasting-main](forecasting-main/)
+   - 
