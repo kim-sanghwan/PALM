@@ -7,9 +7,7 @@ This repository is a direct adaptation from the Ego4D git page. Please consider 
 2. Download LLM of your interest and update get_generator(text_generation_model, device) function in utils/prompt_utils.py
 We leveraged llama-2-7b. Please refer to official Llama2 gihub https://github.com/meta-llama/llama
 
-3. We assume you already have the results of action recognition and image captioning models as json files. You should also have Ego4D video clips and annotations following below instruction
-
-Run bash llama7B_run.sh  
+3. We assume you already have the results of action recognition and image captioning models as json files. You should also have Ego4D video clips and annotations following below instruction. Then, simply run ```bash llama7B_run.sh ``` at slurm cluster.
 
 
 # Long-Term Action Anticipation
