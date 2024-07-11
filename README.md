@@ -1,5 +1,5 @@
 # PALM
-Official implementation of &lt;PALM: Predicting Actions through Language Models>
+Official implementation of &lt;PALM: Predicting Actions through Language Models> at ECCV 2024
 
 Our codebase consists of three part as explained in the paper: action_recognition_module, image_captioning_module, and action_anticipation_module.
 To run the code, Follow below instructions.
